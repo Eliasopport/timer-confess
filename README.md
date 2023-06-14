@@ -1,2 +1,2 @@
 # timer-confess
-Ein Countdown zum gruseln
+Ein Countdown zum Gruseln
